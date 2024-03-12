@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a recent graduate of General Assembly's bootca
 
 ## About Me
 
-I'm an enthusiastic developer dedicated to crafting clean, efficient code and building user-friendly applications. Whether it's a web app, mobile app, or something entirely different, I'm always eager to tackle new challenges and create meaningful solutions.
+I'm an enthusiastic developer 💻 dedicated to crafting clean 🧼, efficient code and building user-friendly applications. Whether it's a web app 🖥️, mobile app 📱, or something entirely different, I'm always eager to tackle new challenges and create meaningful solutions.
 
 ## My Goal
 
